@@ -1,0 +1,1 @@
+# checking-if-the-string-is-good
